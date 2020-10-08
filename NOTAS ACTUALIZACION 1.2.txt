@@ -1,0 +1,5 @@
+1.1
+se ordeno los archivos en carpetas como css,cursos,horarios,etc
+se cambiaron algunos nombres de archivos para se entienda mejor su funcion
+1.2
+se agrego el inicio de seccion(Charo)
